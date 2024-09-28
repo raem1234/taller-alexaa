@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66f5fe0f779b3a3a5beb8e52"
+  },
+  "marca": "chebrolet",
+  "año": 2007,
+  "disponible": "false",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f60e7b1332892ac1b27e54"
+  },
+  "marca": "Chevrolet",
+  "año": 2007,
+  "disponible": "false",
+  "__v": 0
+}]
